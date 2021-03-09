@@ -1,2 +1,2 @@
-# SAS 
-This is sample code in SAS
+# Python 
+This is sample code in Python
